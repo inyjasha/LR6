@@ -83,3 +83,13 @@ ____
 
 Рисунок 17. Откат первого commit. 
 
+![Alt-Рисунок 18.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/18.jpg "18")
+
+Рисунок 18. Второй commit и откат второго commit. 
+
+Создадим ветку для отчета (рис. 19.).
+
+![Alt-Рисунок 19.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/19.jpg "19")
+
+Рисунок 19. Создание ветки для отчета. 
+
