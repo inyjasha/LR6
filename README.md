@@ -45,3 +45,20 @@ ____
 
 Рисунок 9. Объекты ветки branch1.
 
+Выполнение слияния в ветку master при помощи команды git merge, при ее применении и происходит конфликт в файле (рис. 10.), который отображается в результате применения комонды git status(рис. 11.). Для разрешения конфликта необходимо удалить в файле часть данных и применить команды git add и git commit, git merge (рис. 12). После этого в результате применения команды git status будет выводиться безконфликтное состояние (рис. 13.). 
+
+![Alt-Рисунок 10.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/10.jpg "10")
+
+Рисунок 10. Конфликт.
+
+![Alt-Рисунок 11.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/11.jpg "11")
+
+Рисунок 11. Отображение конфликта.
+
+![Alt-Рисунок 12.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/13.jpg "12")
+
+Рисунок 12. Применение команд git add и git commit, git merge.
+
+![Alt-Рисунок 13.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/12.jpg "13")
+
+Рисунок 13. Безконфликтное состояние.
