@@ -14,3 +14,11 @@ ____
  
  ![Alt-Рисунок 3.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/3.jpg "3")
   Рисунок 3. Настройка почты пользователя.
+
+Клонируем свой личный удалённый репозиторий на компьютер при помощи команды git clone (рис.4.).
+![Alt-Рисунок 4.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/4.jpg "4")
+
+Добавляем файл через интерфейс GitHub. Подтягиваем изменения в локальный репозиторий при помощи команды git pull(рисю 5.). 
+![Alt-Рисунок 5.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/5.jpg "5")
+
+Просмотрим историю операций веток с помощью команды git log (рис 6., 7.). 
