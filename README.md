@@ -62,3 +62,24 @@ ____
 ![Alt-Рисунок 13.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/12.jpg "13")
 
 Рисунок 13. Безконфликтное состояние.
+
+Удаляем ветку branch1 (рис 14.).
+
+![Alt-Рисунок 14.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/14.jpg "14")
+
+Рисунок 14. Удаление ветки branch1. 
+
+Внесение изменений и их фиксация происходит при изменений файлов вручную и использовании команд git add и git commit (рис. 15., 16., 17., 18.). 
+
+![Alt-Рисунок 15.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/15.jpg "15")
+
+Рисунок 15. Обнаружение изменений в файле. 
+
+![Alt-Рисунок 16.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/16.jpg "16")
+
+Рисунок 16. Первый commit. 
+
+![Alt-Рисунок 17.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/17.jpg "17")
+
+Рисунок 17. Откат первого commit. 
+
