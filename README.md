@@ -28,4 +28,20 @@ ____
 
 Рисунок 5. Подтягивание изменений.
 
-Просмотрим историю операций веток с помощью команды git log (рис 6., 7.). 
+Просмотрим историю операций веток с помощью команды git log (рис 6., 7.) и различные типы объектов (рис. 8., 9.). 
+![Alt-Рисунок 6.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/6.jpg "6")
+
+Рисунок 6. История операции ветки master.
+
+![Alt-Рисунок 7.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/7.jpg "7")
+
+Рисунок 7. История операции ветки branch1.
+
+![Alt-Рисунок 8.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/8.jpg "8")
+
+Рисунок 8. Объекты ветки master.
+
+![Alt-Рисунок 9.](https://github.com/inyjasha/LR6/blob/branchotchet/otchet/9.jpg "9")
+
+Рисунок 9. Объекты ветки branch1.
+
